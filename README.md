@@ -1,6 +1,11 @@
-<h2 align="left">Hi 👋! My name is AUDREY and I'm a SOFTWARE ENGINEER, from CAMEROON</h2>
+**<h2 align="left">Hi 👋! My name is AUDREY and I'm a SOFTWARE ENGINEER, from CAMEROON</h2>
 
-###
+### ABOUT ME
+<p>Dynamic and passionate Full-Stack Developer experienced in building scalable and high‑impact applications using React, Node.js, NestJS, Prisma, and modern DevOps tools. I focus on clean architecture, scalability, and solving real‑world problems.
+
+I enjoy mentoring developers, leading technical projects, and building tools that make people’s lives easier.</p>
+
+### GITHUB STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AudeScript&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,9 +14,9 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/11eMvGkOCHM5erdxssFVOTaL9C9ANmDgy/view?usp=sharing"  />
+<img align="right" height="150" src="https://drive.google.com/file/d/11DhwDyDCc0v0YEl0sEm_En0U0synPMg7/view?usp=sharing"  />
 
-###
+### TECH TOOLS
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -67,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
 
-###
+### WORK WITH ME
 
 <div align="left">
   <a href="https://www.youtube.com/@SopbweAudrey" target="_blank">
@@ -85,3 +90,4 @@
 </div>
 
 ###
+**
