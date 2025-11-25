@@ -7,7 +7,7 @@ I enjoy mentoring developers, leading technical projects, and building tools tha
 
 ### GITHUB STATS
 
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Audescript&issues=false&following=false&_t=1764062544413)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudeScript)](https://github.com/AudeScript/github-readme-stats)
 
 
 
