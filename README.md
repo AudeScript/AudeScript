@@ -25,7 +25,7 @@ I enjoy mentoring developers, leading technical projects, and building tools tha
 
 ###
 
-<img align="right" height="150" src="https://yt3.ggpht.com/kyBIlTSVFzgR1gE3ieghvkQCJp33yMD9_iPrnjUxO-3LL-0X_78aboYeRFdaaCCS8A-tmLSxXg=s176-c-k-c0x00ffffff-no-rj"  />
+<img align="right" height="150" src="me.png"  />
 
 ### TECH TOOLS
 
