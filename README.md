@@ -7,10 +7,7 @@ I enjoy mentoring developers, leading technical projects, and building tools tha
 
 ### GITHUB STATS
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AudeScript&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AudeScript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Audescript&issues=false&following=false&_t=1764062544413)
 
 
 
