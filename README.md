@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Aude and I'm a SOFTWARE ENGINEER</h2>
 
 ### ABOUT ME
-<p>Dynamic and passionate Full-Stack Developer experienced in building scalable and high‑impact applications using React, Node.js, NestJS, Prisma, and modern DevOps tools. I focus on clean architecture, scalability, and solving real‑world problems.
+<p>Passionate Full-Stack Developer experienced in building scalable and high‑impact applications using React, Node.js, NestJS, Prisma, and modern DevOps tools. I focus on clean architecture, scalability, and solving real‑world problems.
 
 I enjoy mentoring developers, leading technical projects, and building tools that make people’s lives easier.</p>
 
