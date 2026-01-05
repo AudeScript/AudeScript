@@ -7,11 +7,6 @@ I enjoy mentoring developers, leading technical projects, and building tools tha
 
 ### GITHUB STATS
 
-[![Audescript GitHub stats](https://github-readme-stats.vercel.app/api?username=AudeScript)](https://github.com/AudeScript/github-readme-stats)
-
-
-
-
 ###
 
 <img align="right" height="150" src="me.png"  />
